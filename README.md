@@ -1,4 +1,6 @@
-There are two ways to use this
+Algorithmically compose audiovisual performances. 
+
+There are currently two ways to get going:
 
 Method 1:
 
@@ -11,8 +13,8 @@ npm install
 npm run dev
 
 
-
 Method 2: 
 
 Try out the websim.ai prototype here:
 https://websim.ai/@rhythrosa_labs/visual-sonic-pi-studio
+
