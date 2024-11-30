@@ -1,11 +1,18 @@
-To clone repo:
+There are two ways to use this
 
-Run:
+Method 1:
+
+1. Clone repo
+
+2. Run:
 npm install
 
-Then run:
+3. Run:
 npm run dev
 
-Try out the websim.ai prototype:
 
+
+Method 2: 
+
+Try out the websim.ai prototype here:
 https://websim.ai/@rhythrosa_labs/visual-sonic-pi-studio
