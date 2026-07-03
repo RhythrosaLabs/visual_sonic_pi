@@ -18,3 +18,8 @@ Method 2:
 Try out the websim.ai prototype here:
 https://websim.ai/@rhythrosa_labs/visual-sonic-pi-studio
 
+
+
+## Support
+
+If you find this useful, consider supporting via [PayPal](https://paypal.me/noodlebake)
